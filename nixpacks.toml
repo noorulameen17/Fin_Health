@@ -2,7 +2,7 @@
 nixPkgs = ["python39", "postgresql"]
 
 [phases.install]
-cmds = ["pip install -r backend/requirements.txt"]
+cmds = ["pip install --no-cache-dir -r backend/requirements.txt"]
 
 [phases.build]
 cmds = ["echo 'Build complete'"]
