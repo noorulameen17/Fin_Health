@@ -16,9 +16,6 @@ openpyxl==3.1.2
 pdfplumber==0.10.3
 python-multipart==0.0.6
 
-# AI/ML - Using Perplexity SDK
-perplexity-sdk>=0.1.0
-
 # Security & Authentication
 cryptography==42.0.2
 python-jose[cryptography]==3.3.0
