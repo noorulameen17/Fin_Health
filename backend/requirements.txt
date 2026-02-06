@@ -1,0 +1,50 @@
+# FastAPI Framework
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+pydantic==2.5.3
+pydantic-settings==2.1.0
+
+# Database
+sqlalchemy>=2.0.36
+psycopg[binary]>=3.1.0
+alembic>=1.13.1
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+openpyxl==3.1.2
+pdfplumber==0.10.3
+python-multipart==0.0.6
+
+# AI/ML - Using Perplexity SDK
+perplexity-sdk>=0.1.0
+
+# Security & Authentication
+cryptography==42.0.2
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+python-dotenv==1.0.0
+
+# HTTP & API
+httpx==0.26.0
+aiohttp==3.9.1
+
+# Utilities
+python-dateutil==2.8.2
+pytz==2023.3
+
+# Banking API Integration (Examples)
+razorpay==1.4.1
+stripe==8.2.0
+
+# Excel & CSV Processing
+xlrd==2.0.1
+# csv-parser is a Node.js package, not needed for Python
+# Python's built-in csv module is sufficient
+
+# Validation
+email-validator==2.1.0
+
+# Testing
+pytest==7.4.4
+pytest-asyncio==0.23.3

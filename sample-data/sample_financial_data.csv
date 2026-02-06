@@ -1,0 +1,21 @@
+Date,Description,Amount,Type,Category
+2025-01-01,Product Sales,150000,Revenue,Sales
+2025-01-05,Service Income,75000,Revenue,Services
+2025-01-10,Rent Payment,-25000,Expense,Rent
+2025-01-15,Salary Payment,-80000,Expense,Salaries
+2025-01-20,Raw Material Purchase,-30000,Expense,Materials
+2025-01-25,Equipment Purchase,-50000,Expense,Equipment
+2025-01-30,Utility Bills,-5000,Expense,Utilities
+2025-02-01,Product Sales,160000,Revenue,Sales
+2025-02-05,Service Income,80000,Revenue,Services
+2025-02-10,Rent Payment,-25000,Expense,Rent
+2025-02-15,Salary Payment,-80000,Expense,Salaries
+2025-02-20,Raw Material Purchase,-35000,Expense,Materials
+2025-02-28,Utility Bills,-6000,Expense,Utilities
+2025-03-01,Product Sales,175000,Revenue,Sales
+2025-03-05,Service Income,85000,Revenue,Services
+2025-03-10,Rent Payment,-25000,Expense,Rent
+2025-03-15,Salary Payment,-85000,Expense,Salaries
+2025-03-20,Raw Material Purchase,-40000,Expense,Materials
+2025-03-25,Marketing Expense,-15000,Expense,Marketing
+2025-03-31,Utility Bills,-7000,Expense,Utilities

@@ -1,0 +1,82 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+venv/
+ENV/
+env/
+
+# Backend
+backend/.env
+backend/uploads/*
+!backend/uploads/.gitkeep
+backend/alembic/versions/__pycache__/
+*.log
+
+# Frontend
+frontend/node_modules/
+frontend/build/
+frontend/.env
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# IDEs
+.vscode/
+.idea/
+.qodo/
+*.swp
+*.swo
+
+# Temporary files
+migrate.bat
+open-in-vscode.bat
+MIGRATION_COMPLETE.md
+PYTHON_FIX.md
+
+# Version artifact files
+backend/[0-9]*
+backend/[0-9]*.[0-9]*
+backend/[0-9]*.[0-9]*.[0-9]*
+*~
+.DS_Store
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+logs/
+*.log
+
+# OS
+Thumbs.db
